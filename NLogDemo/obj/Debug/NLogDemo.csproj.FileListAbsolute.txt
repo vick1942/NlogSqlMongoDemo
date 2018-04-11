@@ -1,0 +1,61 @@
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\bin\Debug\App.config
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\bin\Debug\NLogDemo.exe.config
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\bin\Debug\NLogDemo.exe
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\bin\Debug\NLogDemo.pdb
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\bin\Debug\NLog.dll
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\bin\Debug\NLog.xml
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\obj\Debug\NLogDemo.csprojResolveAssemblyReference.cache
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\obj\Debug\NLogDemo.csproj.CoreCompileInputs.cache
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\obj\Debug\NLogDemo.exe
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\obj\Debug\NLogDemo.pdb
+c:\users\nikhil.dhore\source\repos\NLogDemo\NLogDemo\bin\Debug\NLog.config
+D:\NLogDemo\NLogDemo\bin\Debug\App.config
+D:\NLogDemo\NLogDemo\bin\Debug\NLog.config
+D:\NLogDemo\NLogDemo\bin\Debug\NLogDemo.exe.config
+D:\NLogDemo\NLogDemo\bin\Debug\NLogDemo.exe
+D:\NLogDemo\NLogDemo\bin\Debug\NLogDemo.pdb
+D:\NLogDemo\NLogDemo\bin\Debug\NLog.dll
+D:\NLogDemo\NLogDemo\bin\Debug\NLog.xml
+D:\NLogDemo\NLogDemo\obj\Debug\NLogDemo.csprojResolveAssemblyReference.cache
+D:\NLogDemo\NLogDemo\obj\Debug\NLogDemo.csproj.CoreCompileInputs.cache
+D:\NLogDemo\NLogDemo\obj\Debug\NLogDemo.exe
+D:\NLogDemo\NLogDemo\obj\Debug\NLogDemo.pdb
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Bson.dll
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Core.dll
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.dll
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Bson.xml
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.xml
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\NLogDemo\NLogDemo\bin\Debug\DnsClient.dll
+D:\NLogDemo\NLogDemo\bin\Debug\NLog.Mongo.dll
+D:\NLogDemo\NLogDemo\bin\Debug\System.Buffers.dll
+D:\NLogDemo\NLogDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NLogDemo\NLogDemo\bin\Debug\DnsClient.xml
+D:\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Core.xml
+D:\NLogDemo\NLogDemo\bin\Debug\NLog.Mongo.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\App.config
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLog.config
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLogDemo.exe.config
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLogDemo.exe
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLogDemo.pdb
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\DnsClient.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Bson.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Core.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Legacy.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLog.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLog.Mongo.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\System.Buffers.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\DnsClient.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Bson.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Core.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\MongoDB.Driver.Legacy.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLog.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\bin\Debug\NLog.Mongo.xml
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\obj\Debug\NLogDemo.csprojResolveAssemblyReference.cache
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\obj\Debug\NLogDemo.csproj.CoreCompileInputs.cache
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\obj\Debug\NLogDemo.exe
+D:\Project Backup TestCases 1\NLogDemo\NLogDemo\obj\Debug\NLogDemo.pdb
